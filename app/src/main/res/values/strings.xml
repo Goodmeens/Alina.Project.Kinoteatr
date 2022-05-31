@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Pogorelova_practice</string>
+    <string name="start">Start</string>
+    <string name="search1">Поиск фильма</string>
+    <string name="search2">Поиск кинотеатра</string>
+    <string name="create1">Добавить фильм</string>
+    <string name="create2">Добавить кинотеатр</string>
+    <string name="create3">Введите название фильма</string>
+    <string name="create4">Введите название кинотеатра</string>
+    <string name="create5">Введите адрес кинотеатра</string>
+    <string name="poisk">Введите название или адрес кинотеатра</string>
+    <string name="todo">TODO</string>
+</resources>
